@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.BLL.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.BLL.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Common.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Data.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Common.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Data.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\obj\Debug\BDev.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\obj\Debug\BDev.BLL.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\obj\Debug\BDev.BLL.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Util.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.BLL\bin\Debug\BDev.Util.pdb

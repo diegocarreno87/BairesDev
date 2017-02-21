@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Services.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Services.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.BLL.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Common.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Data.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Util.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.BLL.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Common.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Data.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\bin\Debug\BDev.Util.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\obj\Debug\BDev.Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\obj\Debug\BDev.Services.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Services\obj\Debug\BDev.Services.pdb

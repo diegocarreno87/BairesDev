@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Common\bin\Debug\BDev.Common.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Common\bin\Debug\BDev.Common.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Common\obj\Debug\BDev.Common.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Common\obj\Debug\BDev.Common.pdb

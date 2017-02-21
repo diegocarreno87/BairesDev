@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<BDev.Common.Employee>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Employees</h2>
+
+<p>
+    @Html.ActionLink("Create New Employee", "Create")
+</p>
+<p>
+    @Html.ActionLink("Create New Task", "Create", "Tasks")
+</p>
+@using (Html.BeginForm("Index", "Employees", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+@if (Model.Count > 0)
+{
+    <table class="table">
+        <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Type</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr valign="middle">
+                <td>
+                    <img src="@Url.Action("getImg", "Employees", new { id = item.ID })" alt="Person Image" width="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID }) |
+                    @Html.ActionLink("Tasks", "Index", "Tasks", new { id = item.ID }, null)
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h4>There are no employees to show</h4>
+}
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

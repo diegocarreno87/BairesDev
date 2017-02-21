@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Util\bin\Debug\BDev.Util.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Util\bin\Debug\BDev.Util.pdb
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Util\obj\Debug\BDev.Util.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Util\obj\Debug\BDev.Util.dll
+C:\Users\Administrator\Documents\00.VS Test Project\BairesDev\BDev.Util\obj\Debug\BDev.Util.pdb
